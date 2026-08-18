@@ -1,6 +1,6 @@
 # HTML & CSS Tasks
 
-This repository contains my daily HTML and CSS practice tasks completed as part of my web development learning.
+This repository contains the HTML and CSS tasks I've completed through daily practice.
 
 ## Tasks
 
