@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    color: #333;
+}
+
+header {
+    background-color: #7b1e1e;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+header h3 {
+    margin: 8px 0 0 ;
+    font-weight: normal;
+}
+
+nav {
+    background-color: #4d1515;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffc107;
+}
+
+.H2{
+    text-align: center;
+    color: #7b1e1e;
+    margin: 15px 0;
+}
+
+.restaurant-images{
+    width: 450px;
+    height: 300px;    
+}
+
+.info{
+    background-color: #ffe0b2;
+    padding: 15px;
+}
+
+.h2{
+    text-align: left;
+    color: #7b1e1e;
+   
+}
+
+marquee p {
+    color: #7b1e1e;
+}
+
+table {
+    width: 80%;
+    margin: 20px 130px;
+    background-color: white;
+    
+}
+
+th {
+    background-color: #7b1e1e;
+    color: white;
+    padding: 15px;
+}
+
+td {
+    padding: 12px;
+    text-align: center;
+    
+}
+
+tr:hover {
+    background-color: #fff0df;
+}
+
+td img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.menu-links {
+    text-align: center;
+    margin: 25px;
+}
+
+.menu-links a {
+    
+    padding: 10px;
+    margin-left: 25px;
+    background-color: #d97706;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.menu-links a:hover {
+    background-color: #7b1e1e;
+}
+
+.form td{
+    text-align: left;
+}
+
+
+button {
+    background-color: #7b1e1e;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #d97706;
+}
